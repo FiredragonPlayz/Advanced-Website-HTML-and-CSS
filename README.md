@@ -40,6 +40,6 @@ For a Live Preview of this website [click me](https://flamebot.gq)
   <a href="https://github.com/FiredragonPlayz" target="_blank">
     <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-
-Make Sure to ⭐ Star and � Follow! 
+<br/>
+Make Sure to ⭐ Star and 💎 Follow! 
 And Don't Remove the Credits!
