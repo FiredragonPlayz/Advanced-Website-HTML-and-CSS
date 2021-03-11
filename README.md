@@ -26,8 +26,13 @@ For a Live Preview of this website [click me](https://flamebot.gq)
   - [Flame Bot](https://top.gg/bot/796279185080582185)
   - [Website](https://flamebot.gq)
 
+Make Sure to ⭐ Star and 💎 Follow! 
+And Don't Remove the Credits!
+
 
 <br/>
+<br/>
+<div align="center">
 <a href="https://discord.com/users/725945760629129277" target="_blank" >
     <img align ="left" alt="FiredragonPlayz's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -40,6 +45,4 @@ For a Live Preview of this website [click me](https://flamebot.gq)
   <a href="https://github.com/FiredragonPlayz" target="_blank">
     <img align ="left" alt="FiredragonPlayz's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-<br/>
-Make Sure to ⭐ Star and 💎 Follow! 
-And Don't Remove the Credits!
+</div>
