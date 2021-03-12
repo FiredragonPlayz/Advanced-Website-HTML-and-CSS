@@ -74,7 +74,17 @@
 		</nav>
 	</div>
 
-
+	<!-- Maker Badge -->
+	<script type="text/javascript">
+		(function (w, d) {
+			w.makerbadge = {}, methods = ['init'];
+			w.makerbadge._c = [];
+			methods.forEach(m => { w.makerbadge[m] = function () { w.makerbadge._c.push([m, arguments]); } });
+			var el = d.createElement('script'); el.type = "text/javascript"; el.async = true; el.src = "https://makerbadge.com/shim.js";
+			var before = d.getElementsByTagName('script')[0]; before.parentNode.insertBefore(el, before);
+		})(window, document);
+		makerbadge.init({ clientId: "ffddd64b-7a14-48e9-a3bf-6e6dc7c694d6", position: "right" });
+	</script>
 
 	<!-- ===== IONICONS ===== -->
 	<script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
@@ -303,7 +313,8 @@
 
 			<br />
 			<a href="https://github.com/FiredragonPlayz">
-				<img src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight" alt="Github">
+				<img src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"
+					alt="Github">
 			</a><br />
 
 
