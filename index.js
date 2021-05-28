@@ -1,8 +1,5 @@
-const Discord = require('discord.js')
 const express = require('express')
-const fetch = require('node-fetch')
 const app = express()
-const client = new Discord.Client()
 app.get('/',(req, res) => res.sendFile(__dirname+'/index.html'))
 app.use("/css", express.static(__dirname + "/css"));
 
